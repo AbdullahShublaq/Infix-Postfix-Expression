@@ -10,8 +10,9 @@ import java.util.Stack;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
+
 public class Infix_Postfix {
 
     private static boolean isOperator(char c) {
